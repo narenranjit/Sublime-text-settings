@@ -1,0 +1,1868 @@
+{
+	"folder_history":
+	[
+		"/F/Forio projects/SimulateJSLib",
+		"/F/Forio projects/VCPE"
+	],
+	"last_window_id": 5,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"line",
+						"lineNo"
+					],
+					[
+						"lin",
+						"lineNo"
+					],
+					[
+						"bor",
+						"border	border-bottom: size style color"
+					],
+					[
+						"pad",
+						"padding-bottom"
+					],
+					[
+						"A",
+						"API"
+					],
+					[
+						"log",
+						"logout"
+					],
+					[
+						"ran",
+						"getRandomSeed"
+					],
+					[
+						"found",
+						"foundCompanies"
+					],
+					[
+						"coll",
+						"collections"
+					],
+					[
+						"com",
+						"companies"
+					],
+					[
+						"match",
+						"matches"
+					],
+					[
+						"ma",
+						"matches"
+					],
+					[
+						"par",
+						"participation"
+					],
+					[
+						"ins",
+						"insiders_reinvest"
+					],
+					[
+						"fun",
+						"funds_wanted"
+					],
+					[
+						"man",
+						"management_level"
+					],
+					[
+						"fir",
+						"firmList"
+					],
+					[
+						"firm",
+						"firms"
+					],
+					[
+						"act",
+						"active"
+					],
+					[
+						"ac",
+						"active_sectors"
+					],
+					[
+						"active",
+						"activeSectors"
+					],
+					[
+						"re",
+						"response"
+					],
+					[
+						"se",
+						"searchTerm"
+					],
+					[
+						"sea",
+						"search"
+					],
+					[
+						"boo",
+						"bootstrapview"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"qu",
+						"queryCost"
+					],
+					[
+						"tot",
+						"totalCost"
+					],
+					[
+						"ot",
+						"options"
+					],
+					[
+						"fu",
+						"funds_available"
+					],
+					[
+						"funds",
+						"funds_available"
+					],
+					[
+						"bre",
+						"beforeEach"
+					],
+					[
+						"p",
+						"ptsToRemove"
+					],
+					[
+						"cl",
+						"client"
+					],
+					[
+						"evt",
+						"evt"
+					]
+				]
+			},
+			"build_system": "Packages/CoffeeScript/Commands/CoffeeScript.sublime-build",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"git:c",
+						"Git: Checkout Current File"
+					],
+					[
+						"",
+						"Snippet: html"
+					],
+					[
+						"rev",
+						"File: Revert"
+					],
+					[
+						"git",
+						"Git: Checkout Current File"
+					],
+					[
+						"reve",
+						"File: Revert"
+					],
+					[
+						"git:ch",
+						"Git: Checkout Current File"
+					],
+					[
+						"git:",
+						"Git: Checkout Current File"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"error",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"show ",
+						"Show TODOs in project and open files"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Discover Packages"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"alig",
+						"Package Control: List Packages"
+					],
+					[
+						"show",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"show	",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"lint",
+						"SublimeLinter: Enable Background Linting"
+					],
+					[
+						"subl",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"disco",
+						"Package Control: Discover Packages"
+					],
+					[
+						"insal",
+						"Package Control: Install Package"
+					],
+					[
+						"pal",
+						"Package Control: Add Repository"
+					],
+					[
+						"discov",
+						"Package Control: Discover Packages"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 332.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/Forio projects/VCPE/bootstrp.html",
+				"/F/Forio projects/VCPE/Cakefile",
+				"/F/Forio projects/VCPE/app/templates/student/company_detail.handlebars",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+				"/F/Forio projects/VCPE/tests/Broker.coffee",
+				"/F/Forio projects/VCPE/app/scripts/Error",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/User/nrnuntitled.sublime-build",
+				"/media/sf_F_DRIVE/Sublime/Packages/User/Default (Linux).sublime-keymap",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/F/Forio projects/VCPE/student.html",
+				"/F/Forio projects/VCPE/app/scripts/main.coffee",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+				"/F/Forio projects/VCPE/public/main.css",
+				"/F/Forio projects/VCPE/public/scripts/main.js",
+				"/F/Forio projects/VCPE/macros.vm",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/Default/Global.sublime-settings",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+				"/F/Forio projects/SimulateJSLib/src/lib/cometd.ack.js",
+				"/F/Forio projects/VCPE/login.html",
+				"/C/Users/Naren/Desktop/test.scss",
+				"/F/Forio projects/SimulateJSLib/tests/utilsTest.js",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+				"/F/Forio projects/VCPE/app/scripts/models/Firm.coffee",
+				"/F/Forio projects/VCPE/app/styles/_game.scss",
+				"/F/Forio projects/SimulateJSLib/tests/utilsStringTest.js",
+				"/F/Forio projects/SimulateJSLib/src/F/utils.js",
+				"/F/Forio projects/SimulateJSLib/src/F/Multiplayer.js",
+				"/F/Forio projects/SimulateJSLib/docs/json/AdminApi.js",
+				"/F/Forio projects/VCPE/app/scripts/views/view_game.coffee",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/User/Global.sublime-settings",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/Base File.sublime-settings",
+				"/F/Forio projects/VCPE/public/scripts/handlebars-helpers.js",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+				"/F/Forio projects/VCPE/app/templates/student/game.handlebars",
+				"/F/Forio projects/VCPE/public/scripts/views/student/view_dashboard.js",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_dashboard.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_company_row.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_search.coffee",
+				"/F/Forio projects/VCPE/public/scripts/models/Firm.js",
+				"/F/Forio projects/VCPE/app/scripts/models/Query.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/Company.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_found.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_directory.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_firm_detail.coffee",
+				"/F/Forio projects/VCPE/public/scripts/models/Query.js",
+				"/F/Forio projects/VCPE/app/templates/student/search.handlebars",
+				"/F/Forio projects/VCPE/public/scripts/views/student/view_found.js",
+				"/F/Forio projects/VCPE/app/templates/student/found.handlebars",
+				"/F/Forio projects/VCPE/public/scripts/models/Company.js",
+				"/F/Forio projects/VCPE/app/scripts/collections/Companies.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/Broker.coffee",
+				"/F/Forio projects/VCPE/app/scripts/collections/Firms.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_co_detail.coffee",
+				"/F/Forio projects/VCPE/app/scripts/handlebars-helpers.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/Game.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/VCPEBase.coffee",
+				"/F/Forio projects/VCPE/app/scripts/collections/VCPEBase.coffee",
+				"/F/Forio projects/VCPE/tests/mocks/firms.json",
+				"/F/Forio projects/VCPE/app/templates/student/dashboard.handlebars",
+				"/F/Forio projects/VCPE/app/scripts/collections/QueryList.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_company_collection.coffee",
+				"/F/Forio projects/VCPE/app/scripts/routers/router_student_app.coffee",
+				"/F/Forio projects/VCPE/app/templates/student/portfolio.handlebars",
+				"/F/Forio projects/VCPE/public/scripts/collections/Companies.js",
+				"/F/Forio projects/VCPE/tests/Query.coffee",
+				"/F/Forio projects/VCPE/emacs-X11.exe.stackdump",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_news.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/_Firms.coffee",
+				"/F/Forio projects/VCPE/tests/mocks/queries.get.json",
+				"/F/Forio projects/VCPE/tests/mocks/companies.get.json",
+				"/F/Forio projects/VCPE/public/scripts/views/student/view_search.js",
+				"/F/Forio projects/VCPE/app/templates/bootstrap/step_3.htm",
+				"/F/Forio projects/VCPE/app/scripts/models/_Query.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/_view_search.coffee",
+				"/F/Forio projects/VCPE/public/scripts/views/student/_view_search.js",
+				"/F/Forio projects/VCPE/app/templates/student/firm_directory.handlebars.conflict",
+				"/F/Forio projects/VCPE/public/scripts/views/student/view_co_detail.js",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_messages.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_portfolio.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/view_alert.coffee",
+				"/F/Forio projects/VCPE/app/scripts/app.build.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/bankertes.txt",
+				"/F/Forio projects/VCPE/tests/index.html",
+				"/C/Users/Naren/Desktop/brkrtext.coffee",
+				"/F/Forio projects/VCPE/public/scripts/view_game.js",
+				"/F/Forio projects/VCPE/public/scripts/models/_Query.js",
+				"/F/Forio projects/VCPE/tests/mocks/queries.json",
+				"/F/Forio projects/VCPE/index.html",
+				"/F/Forio projects/VCPE/tests/Firms.coffee",
+				"/F/Forio projects/VCPE/public/scripts/models/Broker.js",
+				"/F/Forio projects/VCPE/tests/Firms.js",
+				"/F/Forio projects/VCPE/tests/User.coffee"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					": '",
+					": [",
+					"range",
+					"reload",
+					"autoReloadChanged",
+					"Credits",
+					".route_game",
+					"}\")",
+					"participation",
+					"          });",
+					"handleCompanySelect",
+					"handleSearch",
+					"btnSearch",
+					"handleSearch",
+					"false",
+					"gameview",
+					"firm_details_view",
+					"conso",
+					"hotlin",
+					"Firm",
+					"handleNavigation",
+					"vcpe.",
+					"window.Firm",
+					"router",
+					"FirmProperty",
+					"calculateCost",
+					"{",
+					"find",
+					"deleted"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"firm",
+					"updateCost"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"sea",
+						"VCPE/app/templates/student/search.handlebars"
+					],
+					[
+						"url",
+						"VCPE/public/scripts/collections/QueryList.js"
+					],
+					[
+						"brok",
+						"VCPE/app/scripts/models/Broker.coffee"
+					],
+					[
+						"main.cof",
+						"VCPE/app/scripts/main.coffee"
+					],
+					[
+						"main.co",
+						"VCPE/app/scripts/main.coffee"
+					],
+					[
+						".css",
+						"VCPE/public/main.css"
+					],
+					[
+						"main",
+						"VCPE/public/scripts/main.js"
+					],
+					[
+						"st",
+						"VCPE/student.html"
+					],
+					[
+						"log",
+						"VCPE/login.html"
+					],
+					[
+						"game.sc",
+						"VCPE/app/styles/_game.scss"
+					],
+					[
+						"modelsfirm",
+						"VCPE/app/scripts/models/Firm.coffee"
+					],
+					[
+						"ut",
+						"SimulateJSLib/tests/utilsTest.js"
+					],
+					[
+						"stu",
+						"VCPE/student.html"
+					],
+					[
+						"modelsf",
+						"VCPE/app/scripts/models/Firm.coffee"
+					],
+					[
+						"main.",
+						"public/scripts/main.js"
+					],
+					[
+						"main.js",
+						"public/scripts/main.js"
+					],
+					[
+						"view_g",
+						"app/scripts/views/view_game.coffee"
+					],
+					[
+						"view_das",
+						"public/scripts/views/student/view_dashboard.js"
+					],
+					[
+						"query",
+						"public/scripts/models/Query.js"
+					],
+					[
+						"view_fo",
+						"public/scripts/views/student/view_found.js"
+					],
+					[
+						"found",
+						"app/scripts/views/student/view_found.coffee"
+					],
+					[
+						"view",
+						"app/scripts/views/view_game.coffee"
+					],
+					[
+						"view_",
+						"app/scripts/views/view_game.coffee"
+					],
+					[
+						"company.",
+						"public/scripts/models/Company.js"
+					],
+					[
+						"view_se",
+						"app/scripts/views/student/view_search.coffee"
+					],
+					[
+						"han",
+						"app/scripts/handlebars-helpers.coffee"
+					],
+					[
+						"firm.c",
+						"app/scripts/models/Firm.coffee"
+					],
+					[
+						"firm.js",
+						"public/scripts/models/Firm.js"
+					],
+					[
+						"query.js",
+						"public/scripts/models/Query.js"
+					],
+					[
+						"quer",
+						"public/scripts/models/Query.js"
+					],
+					[
+						"qu",
+						"tests/Query.coffee"
+					],
+					[
+						"view_s",
+						"public/scripts/views/student/view_search.js"
+					],
+					[
+						"ha",
+						"app/scripts/handlebars-helpers.coffee"
+					],
+					[
+						"view_sea",
+						"public/scripts/views/student/view_search.js"
+					],
+					[
+						"vcpeba",
+						"app/scripts/models/VCPEBase.coffee"
+					],
+					[
+						"models/firm",
+						"app/scripts/models/Firm.coffee"
+					],
+					[
+						"",
+						"/C/Users/Naren/Desktop/brkrtext.coffee"
+					],
+					[
+						"m",
+						"/F/Forio projects/VCPE/app/scripts/main.coffee"
+					],
+					[
+						"ma",
+						"/F/Forio projects/VCPE/app/scripts/main.coffee"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 256.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 937.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Sec",
+						"SectorList"
+					],
+					[
+						"chang",
+						"changedAttributes"
+					],
+					[
+						"qu",
+						"queriesSoFar"
+					],
+					[
+						"in",
+						"initializeQry"
+					],
+					[
+						"search",
+						"searchview"
+					],
+					[
+						"firm",
+						"firmCollection"
+					],
+					[
+						"main",
+						"mainError"
+					],
+					[
+						"st",
+						"stderr"
+					],
+					[
+						"fi",
+						"firmCollection"
+					],
+					[
+						"ap",
+						"api"
+					],
+					[
+						"fir",
+						"firmModel"
+					],
+					[
+						"line",
+						"lineNo"
+					],
+					[
+						"lin",
+						"lineNo"
+					],
+					[
+						"bor",
+						"border	border-bottom: size style color"
+					],
+					[
+						"pad",
+						"padding-bottom"
+					],
+					[
+						"A",
+						"API"
+					],
+					[
+						"log",
+						"logout"
+					],
+					[
+						"ran",
+						"getRandomSeed"
+					],
+					[
+						"found",
+						"foundCompanies"
+					],
+					[
+						"coll",
+						"collections"
+					],
+					[
+						"com",
+						"companies"
+					],
+					[
+						"match",
+						"matches"
+					],
+					[
+						"ma",
+						"matches"
+					],
+					[
+						"par",
+						"participation"
+					],
+					[
+						"ins",
+						"insiders_reinvest"
+					],
+					[
+						"fun",
+						"funds_wanted"
+					],
+					[
+						"man",
+						"management_level"
+					],
+					[
+						"act",
+						"active"
+					],
+					[
+						"ac",
+						"active_sectors"
+					],
+					[
+						"active",
+						"activeSectors"
+					],
+					[
+						"re",
+						"response"
+					],
+					[
+						"se",
+						"searchTerm"
+					],
+					[
+						"sea",
+						"search"
+					],
+					[
+						"boo",
+						"bootstrapview"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"tot",
+						"totalCost"
+					],
+					[
+						"ot",
+						"options"
+					],
+					[
+						"fu",
+						"funds_available"
+					],
+					[
+						"funds",
+						"funds_available"
+					],
+					[
+						"bre",
+						"beforeEach"
+					],
+					[
+						"p",
+						"ptsToRemove"
+					],
+					[
+						"cl",
+						"client"
+					],
+					[
+						"evt",
+						"evt"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/F/Forio projects/VCPE/tests/Broker.coffee",
+					"settings":
+					{
+						"buffer_size": 2473,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/Forio projects/VCPE/app.js",
+					"settings":
+					{
+						"buffer_size": 859,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/Forio projects/VCPE/app/scripts/models/Alert.coffee",
+					"settings":
+					{
+						"buffer_size": 178,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/Forio projects/VCPE/app/scripts/collections/AlertList.coffee",
+					"settings":
+					{
+						"buffer_size": 171,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/Forio projects/VCPE/app/scripts/models/Firm.coffee",
+					"settings":
+					{
+						"buffer_size": 931,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/Forio projects/VCPE/app/scripts/collections/Firms.coffee",
+					"settings":
+					{
+						"buffer_size": 260,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/Forio projects/VCPE/Cakefile",
+					"settings":
+					{
+						"buffer_size": 2995,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/F/Forio projects/VCPE/app/templates/student/company_table_row.handlebars",
+					"settings":
+					{
+						"buffer_size": 397,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/User/nrnuntitled.sublime-build",
+			"command_palette":
+			{
+				"height": 223.0,
+				"selected_items":
+				[
+					[
+						"rev",
+						"File: Revert"
+					],
+					[
+						"cus",
+						"Git: Custom Command"
+					],
+					[
+						"git:cu",
+						"Git: Custom Command"
+					],
+					[
+						"git",
+						"Git: Custom Command"
+					],
+					[
+						"git:",
+						"Git: Checkout Current File"
+					],
+					[
+						"git:c",
+						"Git: Checkout Current File"
+					],
+					[
+						"git:d",
+						"Git: Diff Current File"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"dis",
+						"Package Control: Discover Packages"
+					],
+					[
+						"git:di",
+						"Git: Diff Current File"
+					],
+					[
+						"git: di",
+						"Git: Diff Current File"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Snippet: html"
+					],
+					[
+						"reve",
+						"File: Revert"
+					],
+					[
+						"git:ch",
+						"Git: Checkout Current File"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"error",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"show ",
+						"Show TODOs in project and open files"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Discover Packages"
+					],
+					[
+						"alig",
+						"Package Control: List Packages"
+					],
+					[
+						"show",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"show	",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"lint",
+						"SublimeLinter: Enable Background Linting"
+					],
+					[
+						"subl",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"disco",
+						"Package Control: Discover Packages"
+					],
+					[
+						"insal",
+						"Package Control: Install Package"
+					],
+					[
+						"pal",
+						"Package Control: Add Repository"
+					],
+					[
+						"discov",
+						"Package Control: Discover Packages"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 332.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/Forio projects/VCPE/app/templates/student/company_table_row.handlebars",
+				"/F/Forio projects/VCPE/Cakefile",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/F/Forio projects/VCPE/macros.vm",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/User/Global.sublime-settings",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/Default/Global.sublime-settings",
+				"/F/Forio projects/VCPE/tests/mocks/firms.json",
+				"/F/Forio projects/VCPE/tests/mocks/queries.json",
+				"/F/Forio projects/VCPE/tests/mocks/queries.post.json",
+				"/F/Forio projects/VCPE/tests/mocks/queries.put.json",
+				"/F/Forio projects/VCPE/tests/mocks/firms.put.json",
+				"/F/Forio projects/VCPE/tests/mocks/firms.1.put.json",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_search.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/Broker.coffee",
+				"/F/Forio projects/VCPE/app/templates/student/search.handlebars",
+				"/F/Forio projects/VCPE/app/templates/student/firm_directory.handlebars",
+				"/F/Forio projects/VCPE/app.js",
+				"/F/Forio projects/VCPE/tests/mocks/queries.get.json",
+				"/F/Forio projects/VCPE/app/scripts/handlebars-helpers.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/Firm.coffee",
+				"/F/Forio projects/VCPE/app/templates/student/firm_detail.handlebars",
+				"/F/Forio projects/VCPE/app/scripts/Globals.coffee",
+				"/F/Forio projects/VCPE/public/scripts/Globals.js",
+				"/F/Forio projects/VCPE/student.html",
+				"/F/Forio projects/VCPE/tests/Broker.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/Query.coffee",
+				"/F/Forio projects/SimulateJSLib/src/F/utils.js",
+				"/F/Forio projects/VCPE/public/scripts/models/Query.js",
+				"/F/Forio projects/VCPE/app/scripts/main.coffee",
+				"/F/Forio projects/VCPE/public/vendor/live.js",
+				"/F/Forio projects/VCPE/tests/Query.coffee",
+				"/F/Forio projects/VCPE/public/vendor/backbone.js",
+				"/F/Forio projects/VCPE/tests/js/Query.js",
+				"/F/Forio projects/VCPE/app/scripts/models/User.coffee",
+				"/F/Forio projects/VCPE/app/scripts/collections/Firms.coffee",
+				"/F/Forio projects/VCPE/app/scripts/collections/VCPEBase.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/VCPEBase.coffee",
+				"/F/Forio projects/VCPE/public/scripts/collections/QueryList.js",
+				"/F/Forio projects/VCPE/app/scripts/models/Game.coffee",
+				"/F/Forio projects/VCPE/app/scripts/collections/Companies.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_messages.coffee",
+				"/F/Forio projects/VCPE/tests/mocks/Game.json",
+				"/F/Forio projects/VCPE/app/scripts/routers/router_student_app.coffee",
+				"/F/Forio projects/VCPE/public/scripts/routers/router_student_app.js",
+				"/F/Forio projects/VCPE/public/scripts/scripts/models/Firm.js",
+				"/F/Forio projects/VCPE/public/scripts/collections/Firms.js",
+				"/F/Forio projects/VCPE/public/scripts/scripts/collections/VCPEBase.js",
+				"/F/Forio projects/VCPE/public/scripts/scripts/models/VCPEBase.js",
+				"/F/Forio projects/VCPE/public/scripts/scripts/models/_Game.js",
+				"/F/Forio projects/VCPE/bootstrp.html",
+				"/F/Forio projects/VCPE/public/scripts/VCPEBase.js",
+				"/F/Forio projects/VCPE/public/scripts/collections/VCPEBase.js",
+				"/F/Forio projects/VCPE/public/scripts/models/VCPEBase.js",
+				"/F/Forio projects/VCPE/app/scripts/collections/QueryList.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/_Query.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/Decision.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/_view_search.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/_Game.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/_Firms.coffee",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+				"/F/Forio projects/VCPE/node_modules/handlebars/lib/handlebars/vm.js",
+				"/F/Forio projects/VCPE/node_modules/handlebars/lib/handlebars.js",
+				"/F/Forio projects/VCPE/node_modules/handlebars/lib/handlebars/utils.js",
+				"/F/Forio projects/VCPE/node_modules/handlebars/lib/handlebars/base.js",
+				"/F/Forio projects/VCPE/node_modules/handlebars/lib/handlebars/compiler/base.js",
+				"/F/Forio projects/VCPE/node_modules/handlebars/bin/handlebars",
+				"/F/Forio projects/VCPE/app/templates/student/company_detail.handlebars",
+				"/F/Forio projects/VCPE/app/scripts/Error",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/User/nrnuntitled.sublime-build",
+				"/media/sf_F_DRIVE/Sublime/Packages/User/Default (Linux).sublime-keymap",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+				"/F/Forio projects/VCPE/public/main.css",
+				"/F/Forio projects/VCPE/public/scripts/main.js",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+				"/F/Forio projects/SimulateJSLib/src/lib/cometd.ack.js",
+				"/F/Forio projects/VCPE/login.html",
+				"/C/Users/Naren/Desktop/test.scss",
+				"/F/Forio projects/SimulateJSLib/tests/utilsTest.js",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+				"/F/Forio projects/VCPE/app/styles/_game.scss",
+				"/F/Forio projects/SimulateJSLib/tests/utilsStringTest.js",
+				"/F/Forio projects/SimulateJSLib/src/F/Multiplayer.js",
+				"/F/Forio projects/SimulateJSLib/docs/json/AdminApi.js",
+				"/F/Forio projects/VCPE/app/scripts/views/view_game.coffee",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/Base File.sublime-settings",
+				"/F/Forio projects/VCPE/public/scripts/handlebars-helpers.js",
+				"/C/Users/Naren/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+				"/F/Forio projects/VCPE/app/templates/student/game.handlebars",
+				"/F/Forio projects/VCPE/public/scripts/views/student/view_dashboard.js",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_dashboard.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_company_row.coffee",
+				"/F/Forio projects/VCPE/public/scripts/models/Firm.js",
+				"/F/Forio projects/VCPE/app/scripts/models/Company.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_found.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_directory.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_firm_detail.coffee",
+				"/F/Forio projects/VCPE/public/scripts/views/student/view_found.js",
+				"/F/Forio projects/VCPE/app/templates/student/found.handlebars",
+				"/F/Forio projects/VCPE/public/scripts/models/Company.js",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_co_detail.coffee",
+				"/F/Forio projects/VCPE/app/templates/student/dashboard.handlebars",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_company_collection.coffee",
+				"/F/Forio projects/VCPE/app/templates/student/portfolio.handlebars",
+				"/F/Forio projects/VCPE/public/scripts/collections/Companies.js",
+				"/F/Forio projects/VCPE/emacs-X11.exe.stackdump",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_news.coffee",
+				"/F/Forio projects/VCPE/tests/mocks/companies.get.json",
+				"/F/Forio projects/VCPE/public/scripts/views/student/view_search.js",
+				"/F/Forio projects/VCPE/app/templates/bootstrap/step_3.htm",
+				"/F/Forio projects/VCPE/public/scripts/views/student/_view_search.js",
+				"/F/Forio projects/VCPE/app/templates/student/firm_directory.handlebars.conflict",
+				"/F/Forio projects/VCPE/public/scripts/views/student/view_co_detail.js",
+				"/F/Forio projects/VCPE/app/scripts/views/student/view_portfolio.coffee",
+				"/F/Forio projects/VCPE/app/scripts/views/view_alert.coffee",
+				"/F/Forio projects/VCPE/app/scripts/app.build.coffee",
+				"/F/Forio projects/VCPE/app/scripts/models/bankertes.txt",
+				"/F/Forio projects/VCPE/tests/index.html",
+				"/C/Users/Naren/Desktop/brkrtext.coffee",
+				"/F/Forio projects/VCPE/public/scripts/view_game.js",
+				"/F/Forio projects/VCPE/public/scripts/models/_Query.js",
+				"/F/Forio projects/VCPE/index.html",
+				"/F/Forio projects/VCPE/tests/Firms.coffee",
+				"/F/Forio projects/VCPE/public/scripts/models/Broker.js",
+				"/F/Forio projects/VCPE/tests/Firms.js"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"watch:c",
+					"watch",
+					".set",
+					"sector_focus",
+					",label",
+					"label",
+					"currentQuery",
+					"clone",
+					"copy",
+					".set",
+					"matches",
+					"save",
+					"hotline",
+					"$",
+					"reset",
+					"fetch",
+					"$(",
+					")",
+					"(",
+					"log",
+					"precompile",
+					": '",
+					": [",
+					"range",
+					"reload",
+					"autoReloadChanged",
+					"Credits",
+					".route_game",
+					"}\")",
+					"participation",
+					"          });",
+					"handleCompanySelect",
+					"handleSearch",
+					"btnSearch",
+					"handleSearch",
+					"false",
+					"gameview",
+					"firm_details_view",
+					"conso",
+					"hotlin",
+					"Firm",
+					"handleNavigation",
+					"vcpe.",
+					"window.Firm",
+					"router",
+					"FirmProperty",
+					"calculateCost",
+					"{",
+					"find",
+					"deleted"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					", label",
+					",label",
+					"results",
+					"currentQuery",
+					"($ ",
+					" ",
+					"firm",
+					"updateCost"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/F/Forio projects/VCPE"
+				},
+				{
+					"path": "/F/Forio projects/SimulateJSLib"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/F/Forio projects/VCPE/tests/Broker.coffee",
+							"settings":
+							{
+								"buffer_size": 2473,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2055,
+										2055
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 825.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/F/Forio projects/VCPE/app.js",
+							"settings":
+							{
+								"buffer_size": 859,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										859,
+										859
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/F/Forio projects/VCPE/app/scripts/models/Alert.coffee",
+							"settings":
+							{
+								"buffer_size": 178,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										176,
+										176
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/F/Forio projects/VCPE/app/scripts/collections/AlertList.coffee",
+							"settings":
+							{
+								"buffer_size": 171,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										169,
+										169
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/F/Forio projects/VCPE/app/scripts/models/Firm.coffee",
+							"settings":
+							{
+								"buffer_size": 931,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										375,
+										375
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/F/Forio projects/VCPE/app/scripts/collections/Firms.coffee",
+							"settings":
+							{
+								"buffer_size": 260,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										260
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/F/Forio projects/VCPE/Cakefile",
+							"settings":
+							{
+								"buffer_size": 2995,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										870,
+										870
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/F/Forio projects/VCPE/app/templates/student/company_table_row.handlebars",
+							"settings":
+							{
+								"buffer_size": 397,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										248,
+										246
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 160.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,804,980,759,1138",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"han",
+						"VCPE/app/scripts/handlebars-helpers.coffee"
+					],
+					[
+						"",
+						"VCPE/app/templates/student/firm_detail.handlebars"
+					],
+					[
+						"firms",
+						"VCPE/tests/mocks/firms.json"
+					],
+					[
+						"firm",
+						"VCPE/app/scripts/models/Firm.coffee"
+					],
+					[
+						"firm_d",
+						"VCPE/app/templates/student/firm_detail.handlebars"
+					],
+					[
+						"stud",
+						"VCPE/student.html"
+					],
+					[
+						"glo",
+						"VCPE/public/scripts/Globals.js"
+					],
+					[
+						"stu",
+						"VCPE/student.html"
+					],
+					[
+						"sea",
+						"VCPE/app/templates/student/search.handlebars"
+					],
+					[
+						"modelbro",
+						"VCPE/app/scripts/models/Broker.coffee"
+					],
+					[
+						"bre",
+						"VCPE/tests/Broker.coffee"
+					],
+					[
+						"viewse",
+						"VCPE/app/scripts/views/student/view_search.coffee"
+					],
+					[
+						"breo",
+						"VCPE/tests/Broker.coffee"
+					],
+					[
+						"stsea",
+						"VCPE/app/templates/student/search.handlebars"
+					],
+					[
+						"quer",
+						"VCPE/app/scripts/models/Query.coffee"
+					],
+					[
+						"qu",
+						"VCPE/tests/Query.coffee"
+					],
+					[
+						"back",
+						"VCPE/public/vendor/backbone.js"
+					],
+					[
+						"view_s",
+						"VCPE/app/scripts/views/student/view_search.coffee"
+					],
+					[
+						"utils.",
+						"SimulateJSLib/src/F/utils.js"
+					],
+					[
+						"main.co",
+						"VCPE/app/scripts/main.coffee"
+					],
+					[
+						"modelsqu",
+						"VCPE/public/scripts/models/Query.js"
+					],
+					[
+						"query",
+						"VCPE/tests/js/Query.js"
+					],
+					[
+						"main.c",
+						"VCPE/app/scripts/main.coffee"
+					],
+					[
+						"c",
+						"VCPE/Cakefile"
+					],
+					[
+						"cake",
+						"VCPE/Cakefile"
+					],
+					[
+						"collectionvc",
+						"VCPE/app/scripts/collections/VCPEBase.coffee"
+					],
+					[
+						"collectionsfi",
+						"VCPE/app/scripts/collections/Firms.coffee"
+					],
+					[
+						"modelsvcp",
+						"VCPE/app/scripts/models/VCPEBase.coffee"
+					],
+					[
+						"modelsv",
+						"VCPE/public/scripts/models/VCPEBase.js"
+					],
+					[
+						"modelgame",
+						"VCPE/app/scripts/models/Game.coffee"
+					],
+					[
+						"collectionscom",
+						"VCPE/app/scripts/collections/Companies.coffee"
+					],
+					[
+						"view_me",
+						"VCPE/app/scripts/views/student/view_messages.coffee"
+					],
+					[
+						"url",
+						"VCPE/public/scripts/collections/QueryList.js"
+					],
+					[
+						"brok",
+						"VCPE/app/scripts/models/Broker.coffee"
+					],
+					[
+						"main.cof",
+						"VCPE/app/scripts/main.coffee"
+					],
+					[
+						".css",
+						"VCPE/public/main.css"
+					],
+					[
+						"main",
+						"VCPE/public/scripts/main.js"
+					],
+					[
+						"st",
+						"VCPE/student.html"
+					],
+					[
+						"log",
+						"VCPE/login.html"
+					],
+					[
+						"game.sc",
+						"VCPE/app/styles/_game.scss"
+					],
+					[
+						"modelsfirm",
+						"VCPE/app/scripts/models/Firm.coffee"
+					],
+					[
+						"ut",
+						"SimulateJSLib/tests/utilsTest.js"
+					],
+					[
+						"modelsf",
+						"VCPE/app/scripts/models/Firm.coffee"
+					],
+					[
+						"main.",
+						"public/scripts/main.js"
+					],
+					[
+						"main.js",
+						"public/scripts/main.js"
+					],
+					[
+						"view_g",
+						"app/scripts/views/view_game.coffee"
+					],
+					[
+						"view_das",
+						"public/scripts/views/student/view_dashboard.js"
+					],
+					[
+						"view_fo",
+						"public/scripts/views/student/view_found.js"
+					],
+					[
+						"found",
+						"app/scripts/views/student/view_found.coffee"
+					],
+					[
+						"view",
+						"app/scripts/views/view_game.coffee"
+					],
+					[
+						"view_",
+						"app/scripts/views/view_game.coffee"
+					],
+					[
+						"company.",
+						"public/scripts/models/Company.js"
+					],
+					[
+						"view_se",
+						"app/scripts/views/student/view_search.coffee"
+					],
+					[
+						"firm.c",
+						"app/scripts/models/Firm.coffee"
+					],
+					[
+						"firm.js",
+						"public/scripts/models/Firm.js"
+					],
+					[
+						"query.js",
+						"public/scripts/models/Query.js"
+					],
+					[
+						"ha",
+						"app/scripts/handlebars-helpers.coffee"
+					],
+					[
+						"view_sea",
+						"public/scripts/views/student/view_search.js"
+					],
+					[
+						"vcpeba",
+						"app/scripts/models/VCPEBase.coffee"
+					],
+					[
+						"models/firm",
+						"app/scripts/models/Firm.coffee"
+					],
+					[
+						"m",
+						"/F/Forio projects/VCPE/app/scripts/main.coffee"
+					],
+					[
+						"ma",
+						"/F/Forio projects/VCPE/app/scripts/main.coffee"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 256.0,
+			"status_bar_visible": true,
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

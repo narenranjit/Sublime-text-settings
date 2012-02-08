@@ -1,0 +1,19 @@
+{
+	"alignment_chars":
+	[
+		"=",
+		":"
+	],
+	"auto_reload_changed": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "Courier New",
+	"font_options":
+	[
+		""
+	],
+	"font_size": 14,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"scroll_past_end": false,
+	"shift_tab_unindent": true
+}

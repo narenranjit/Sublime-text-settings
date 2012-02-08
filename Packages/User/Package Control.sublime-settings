@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_frequency": 9,
+	"auto_upgrade_last_run": 1328724754,
+	"installed_packages":
+	[
+		"Alignment",
+		"CoffeeScript",
+		"FileDiffs",
+		"Git",
+		"Package Control",
+		"SublimeTODO",
+		"Terminal",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"https://bitbucket.org/sublimator/sublime-2-zencoding",
+		"https://github.com/abrookins/GotoLastEdit"
+	],
+	"submit_usage": false
+}
